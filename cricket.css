@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-image:url("cricket1.jpg");
+    background-size: cover;
+}  
+.heading{
+    background-color: rgb(161, 241, 237);
+    color:rgb(71, 2, 2);
+    text-decoration: dashed;
+    display: inline;
+    border:none;
+    border-radius: 20%;
+}
+.choice{
+    height:100px;
+    width:100px;
+    border:none;
+    margin:10px;
+    background-color: rgb(142, 233, 154);
+    border-radius: 50%;
+    cursor:pointer;
+}
+.choice-button{
+    height:75px;
+}
